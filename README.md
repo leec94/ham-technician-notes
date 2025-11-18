@@ -10,3 +10,5 @@ Notes on taking the amateur radio level 1 technician license exam.
 
 ### Resources
 - ARRL Exam Review for Ham Radio: https://arrlexamreview.appspot.com/
+- https://www.kb6nu.com/study-guides/
+- https://hamstudy.org/
