@@ -12,3 +12,6 @@ Notes on taking the amateur radio level 1 technician license exam.
 - ARRL Exam Review for Ham Radio: https://arrlexamreview.appspot.com/
 - https://www.kb6nu.com/study-guides/
 - https://hamstudy.org/
+- E-Books
+  - No-Nonsense Technician Class License Study Guide: https://www.kb6nu.com/wp-content/uploads/2023/03/2022-no-nonsense-tech-study-guide-v2-20230204.pdf
+  - OBRA HAM Radio Technician License Study Guide: https://obraobx.com/wp-content/uploads/2024/11/OBRA-Technician-Licensse-Training-Part-1-V1.3.pdf
