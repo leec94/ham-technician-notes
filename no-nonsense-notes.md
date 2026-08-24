@@ -20,9 +20,13 @@ Notes
   - android apps
   - iOS apps 
 - Electrical principles
-  - current: the **flow** of electrons in a circuit, flows from positive to negative. measured in amperes
-  - voltage: the **force** that causes electrons to flow in a circuit, measured in volts. also electromotive force, electric potential (represented by E)  
-  - resistance 
+  - current (I): in amperes, the **flow** of electrons in a circuit, flows from positive to negative
+  - voltage (E): in volts, the **force** that causes electrons to flow in a circuit. also electromotive force, electric potential 
+  - resistance (R): in ohms, opposes the flow of current in a circuit
+    - can be connected in series or in parallel
+  - frequency: number of times per second that an alternating current makes a complete cycle
+  - cycle: the portion of an alternating current waveform that repeats over and over
+  - hertz (Hz): the unit of frequency, 1 Hz is one cycle per second
   - alternating current (AC)
   - direct current (DC)
   - conductors
@@ -32,3 +36,7 @@ Notes
   - ampere hours
   - capacitance
   - inductance
+  - metal wires: good conductors of electricity because they have many free electrons
+  - insulators: high resistance, a material that does not conduct current very well. like plastics and glass
+- Ohm's Law: E = I x R
+  - what is ohms law: relationship between voltage, current, and resistance in an electrical circuit
